@@ -1,3 +1,6 @@
+Dim a
+
+
 msgbox"Hello! pls enter you name! (this here is not a virus!) ",,"Welcome!"
 inputbox"Enter Name"
 msgbox"ok thats a Cool name! (I like all names!) ",,"Name"
