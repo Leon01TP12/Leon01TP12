@@ -13,4 +13,7 @@ WshShell.run ("explorer.exe")
 set WshShell = WScript.CreateObject ("Wscript.Shell")
 WshShell.run ("tasklist.exe")
 set WshShell = WScript.CreateObject ("Wscript.Shell")
-WshShell.run ("tasklist.exe")
+WshShell.run ("taskkill.exe")
+set WshShell = WScript.CreateObject ("Wscript.Shell")
+WshShell.run ("cmd.exe")
+msgbox"Trebel Destroy",4,"Trebel Destroy"
