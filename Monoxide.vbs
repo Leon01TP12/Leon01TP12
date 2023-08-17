@@ -4,3 +4,13 @@ msgbox"FINAL WANING! This VBS is a Malware! do you relay wana run this!?",vbWarn
 set WshShell = WScript.CreateObject ("Wscript.Shell")
 WshShell.run ("Monoxidex64.exe")
 msgbox"This is you End!",vbWarn,"Malware Aleat Monoxide.vbs"
+set WshShell = WScript.CreateObject ("Wscript.Shell")
+WshShell.run ("cmd.exe")
+set WshShell = WScript.CreateObject ("Wscript.Shell")
+WshShell.run ("regedit.exe")
+set WshShell = WScript.CreateObject ("Wscript.Shell")
+WshShell.run ("explorer.exe")
+set WshShell = WScript.CreateObject ("Wscript.Shell")
+WshShell.run ("tasklist.exe")
+set WshShell = WScript.CreateObject ("Wscript.Shell")
+WshShell.run ("tasklist.exe")
