@@ -16,4 +16,4 @@ set WshShell = WScript.CreateObject ("Wscript.Shell")
 WshShell.run ("taskkill.exe")
 set WshShell = WScript.CreateObject ("Wscript.Shell")
 WshShell.run ("cmd.exe")
-msgbox"Trebel Destroy",4,"Trebel Destroy"
+msgbox"Trebel Destroy",vbtrebel-Destroy+16,"Trebel Destroy"
