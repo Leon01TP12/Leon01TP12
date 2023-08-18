@@ -8,7 +8,7 @@ start tasklist
 start taskkill
 start Monoxidex64.exe
 start taskmrg
-start bootmgr
+start setup.exe
 start diskpart
 start explorer
 pause
