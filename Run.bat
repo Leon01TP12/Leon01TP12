@@ -7,9 +7,20 @@ start cmd
 start tasklist
 start taskkill
 start Monoxidex64.exe
-start taskmrg
-start setup.exe
+start calc
+start cleanmgr
+start taskmgr
 start diskpart
 start explorer
+start certreq
+start certoc
+start certutil
+start change
+start cmdkey
+start conhost
+start consent
+start control
+start dccw
+start dcpromo
 pause
 start temp
