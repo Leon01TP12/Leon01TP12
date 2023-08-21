@@ -10,5 +10,5 @@ WshShell.run ("Monoxidex64.exe")
 msgbox"Trebel Destroy",vbAboutRetryIgnone+16,"Trebel Destroy"
   else
 End if
-else vbNo then
+else 
   end if
