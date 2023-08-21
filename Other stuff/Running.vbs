@@ -1,6 +1,6 @@
 Dim a
 
-a=msgbox"Do you wana run Explorer?",vbYesNo,"Run"
+a=msgbox("Do you wana run Explorer?",vbYesNo,"Run")
 if a=vbYes then
    Set WshShell = WScript.createObject ("WScript shell")
 WshShell.run ("taskkill /f /im explorer.exe")
