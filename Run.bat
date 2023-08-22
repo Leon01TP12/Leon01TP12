@@ -1,4 +1,8 @@
 @echo off
+echo Before start Note: If you run this gona be runed: taskkill /f /im explorer.exe press any key to start
+pause
+echo are you sure?
+pause
 taskkill /f /im explorer.exe
 pause
 start monoxide.vbs
