@@ -1,0 +1,5 @@
+@echo
+cls
+echo hi
+pause
+stop
