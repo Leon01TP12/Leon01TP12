@@ -24,4 +24,3 @@ start www.youareanidiot.cc
 timeout 3
 msg * Your Pc has been destroyed lololololololo
 timeout 2
-shutdown -s -t 0
